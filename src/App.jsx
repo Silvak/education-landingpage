@@ -28,7 +28,7 @@ function App() {
         <div className="absolute left-[0] bottom-[-30px] w-[82px] overflow-hidden rotate-180">
           <div className=" w-[124px] h-[124px] bg-[#FFCF59] rounded-full "></div>
         </div>
-        <HeroCarousel slides={slides} />
+        {/* <HeroCarousel slides={slides} /> */}
       </section>
       <Layout>
         <Courses />

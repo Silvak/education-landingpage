@@ -17,7 +17,9 @@ function Hero() {
           </h2>
           <p className="text-[#808080] text-[16px]">{text}</p>
 
-          <Button>{textButton}</Button>
+          <a href="#contact">
+            <Button>{textButton}</Button>
+          </a>
         </div>
 
         {/* image */}

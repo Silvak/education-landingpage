@@ -7,7 +7,10 @@ const Card = ({ content }) => {
   return (
     <div className="grid grid-cols-1 relative rounded-[14px] cursor-pointer shadow-xl">
       <div className="flex justify-center w-full h-full  bg-gray-100 overflow-hidden rounded-t-[14px]">
-        <img src={content.image} className="object-cover" />
+        <img
+          src={content.image}
+          className="object-cover w-full max-h-[400px] object-right-top"
+        />
       </div>
 
       <div className=" pb-[38px] px-[16px] pt-[24px]">
@@ -18,7 +21,9 @@ const Card = ({ content }) => {
       </div>
 
       <div className="flex justify-center items-center absolute bottom-[-24px] w-full">
-        <Button className="shadow-lg">{content.textButton}</Button>
+        <a href="#contact">
+          <Button className="shadow-lg">{content.textButton}</Button>
+        </a>
       </div>
     </div>
   );
@@ -36,7 +41,7 @@ function Programs() {
         <p className="text-[#333333] text-center">{text}</p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-[48px] md:gap-[20px]">
+      <div className="grid grid-cols-1 gap-[48px] md:gap-[20px]">
         {cards.map((element) => (
           <Card key={element.id} content={element} />
         ))}
