@@ -9,7 +9,7 @@
       { "title": "Users", "url": "#opinion" },
       {
         "title": "Blog",
-        "url": "http://terratrekkertales.blog.techproperties.es/"
+        "url": "https://natplay.blog.techproperties.es"
       }
     ],
     "button": {
@@ -18,7 +18,7 @@
     }
   },
   "section1": {
-    "title": ["Welcome to", "TerraTrekkerTales", ""],
+    "title": ["Welcome to", "Natplay", ""],
     "text": "At the heart of our mission is innovation, education and fun. We are much more than an entertainment company; We are pioneers in the convergence of technology and experiential learning.",
     "textButton": "JOIN",
     "images": ["person1.png", "bgHero.png"],
@@ -39,13 +39,13 @@
   },
   "section2": {
     "title": ["Know us", ""],
-    "text": "At TerraTrekkerTales, we stand out for our dedication to educational excellence and passion for environmental conservation.",
+    "text": "At Natplay, we stand out for our dedication to educational excellence and passion for environmental conservation.",
     "cards": [
       {
         "id": 1,
         "icon": "book.png",
         "title": "Environmental Education",
-        "text": "TerraTrekkerTales is distinguished by its exclusive dedication to education about natural resources. Unlike other gaming companies, our platform is specifically designed to teach users about the importance of conserving the environment and promoting sustainability."
+        "text": "Natplay is distinguished by its exclusive dedication to education about natural resources. Unlike other gaming companies, our platform is specifically designed to teach users about the importance of conserving the environment and promoting sustainability."
       },
       {
         "id": 2,
@@ -57,7 +57,7 @@
         "id": 3,
         "icon": "leaf.png",
         "title": "User Experience",
-        "text": "At TerraTrekkerTales, we strive to offer the best possible experience to our users. From an intuitive interface to educational and challenging missions, every aspect of our platform is designed with user convenience and satisfaction in mind."
+        "text": "At Natplay, we strive to offer the best possible experience to our users. From an intuitive interface to educational and challenging missions, every aspect of our platform is designed with user convenience and satisfaction in mind."
       },
       {
         "id": 4,
@@ -69,7 +69,7 @@
         "id": 5,
         "icon": "time.png",
         "title": "Educational Content",
-        "text": "TerraTrekkerTales offers a wide variety of educational content about natural resources, ranging from biodiversity and ecosystems to water conservation and renewable energy. Our platform provides a complete and enriching learning experience for users of all ages and interests."
+        "text": "Natplay offers a wide variety of educational content about natural resources, ranging from biodiversity and ecosystems to water conservation and renewable energy. Our platform provides a complete and enriching learning experience for users of all ages and interests."
       },
       {
         "id": 6,
@@ -128,7 +128,7 @@
     "text": "",
     "cards": [
       {
-        "text": "TerraTrekkerTales has been an amazing experience for me and my family! We love how it combines the fun of gameplay with valuable lessons about nature and conservation. My kids are learning so much while playing, and I'm excited to see how their interest in environment is growing thanks to this platform. I would definitely recommend TerraTrekkerTales to anyone who wants to learn and have fun at the same time!",
+        "text": "Natplay has been an amazing experience for me and my family! We love how it combines the fun of gameplay with valuable lessons about nature and conservation. My kids are learning so much while playing, and I'm excited to see how their interest in environment is growing thanks to this platform. I would definitely recommend Natplay to anyone who wants to learn and have fun at the same time!",
         "author": "James Thomas",
         "authorImage": "thomas.png",
         "location": ""
@@ -138,14 +138,14 @@
 
   "section7": {
     "title": ["Contact", "us!"],
-    "text": "Join us on this exciting journey where fun meets meaningful learning. Discover a universe of possibilities in TerraTrekkerTales, where each click brings you one step closer to adventure and knowledge.",
+    "text": "Join us on this exciting journey where fun meets meaningful learning. Discover a universe of possibilities in Natplay, where each click brings you one step closer to adventure and knowledge.",
     "textButton": "Contact us",
     "email": "education@mail.com"
   },
   "footer": {
     "brand": {
-      "title": "TerraTrekkerTales",
-      "text": "Explore, learn, protect: Your educational adventure in TerraTrekkerTales."
+      "title": "NatPlay",
+      "text": "Explore, learn, protect: Your educational adventure in Natplay."
     },
     "about": {
       "title": "About",
@@ -155,8 +155,8 @@
       "title": "Contact Us",
       "location": "Canarias, Spain",
       "phone": "202-918-2132",
-      "email": "info@TerraTrekkerTales.com"
+      "email": "info@Natplay.com"
     },
-    "copy": "Copyright © 2024 TerraTrekkerTales."
+    "copy": "Copyright © 2024 Natplay."
   }
 }

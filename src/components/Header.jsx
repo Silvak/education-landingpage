@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import data from "@/data.json";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 
 function Header() {
   const { pageName, links, button } = data.header;
@@ -9,7 +9,7 @@ function Header() {
       <div className="flex justify-between items-center w-full max-w-[1200px] py-[14px] ">
         <div className="text-[22px] font-bold text-[#1C1C1C] w-[160px] md:w-[200px]">
           <a href="/">
-            <img src={logo} alt={pageName[0]} />
+            <img src={logo} alt={pageName[0]}  className="h-[42px]"/>
           </a>
         </div>
 
